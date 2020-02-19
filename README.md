@@ -8,6 +8,10 @@ While eye-tracking is rather a moderatly easy tasks, most of the software don't 
 
 ## Frameworks and libraries
 
+### Python
+
+* [GazeTracking](https://github.com/antoinelame/GazeTracking) - 👀 Eye Tracking library easily implementable to your projects
+
 ### Javascript
 
 * [webcamjs](https://github.com/jhuckaby/webcamjs) - HTML5 Webcam Image Capture Library with Flash Fallback
